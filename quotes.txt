@@ -4,10 +4,6 @@
 
 we wrcking things up
 
-<<<<<<< HEAD
+we're on master branch editing for real this time *we chose this
 
-
-we're on master branch editing for real this time
-=======
-ok now we in the main thingy branch
->>>>>>> anNewBranch
+change 1
