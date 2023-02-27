@@ -1,12 +1,9 @@
 <this is my side quotes, like a draft>
 
-<<<<<<< HEAD
 making some conflicting changes 
 
 (anNewBranch) HEHEHEHEHEHEHEHEHEHEHE
 and another hehe
-=======
 making some conflicting changes
 
 changes
->>>>>>> sideshow
