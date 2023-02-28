@@ -11,3 +11,5 @@ change added
 its probably not great to use the word change as you think its their command
 
 we're adding info after we've used remote and now we'll want to push changes from local to remote.
+
+<changes made directly in remote>
