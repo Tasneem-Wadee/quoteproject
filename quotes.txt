@@ -1,9 +1,11 @@
 <add some quote here> 
 
-<add some quote here>
 
 we wrcking things up
 
 we're on master branch editing for real this time *we chose this
 
 change 1
+change 2
+change added
+its probably not great to use the word change as you think its their command
